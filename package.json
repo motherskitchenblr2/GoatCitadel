@@ -159,7 +159,7 @@
     "tsx": "4.22.4",
     "typescript": "6.0.3",
     "typescript-eslint": "8.58.0",
-    "vitest": "4.1.8",
+    "vitest": "4.1.11",
     "zod": "3.25.76"
   },
   "lint-staged": {
