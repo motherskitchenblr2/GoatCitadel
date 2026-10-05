@@ -20,7 +20,7 @@
     "@goatcitadel/policy-engine": "workspace:*",
     "@goatcitadel/skills": "workspace:*",
     "@goatcitadel/storage": "workspace:*",
-    "@grpc/grpc-js": "1.14.4",
+    "@grpc/grpc-js": "1.14.5",
     "@grpc/proto-loader": "0.8.1",
     "@inquirer/prompts": "7.10.1",
     "adm-zip": "0.6.1",
