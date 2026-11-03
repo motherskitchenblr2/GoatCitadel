@@ -33,7 +33,7 @@
     "shell-quote": "1.8.4",
     "typescript": "6.0.3",
     "undici": "6.28.1",
-    "zod": "3.25.76"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/adm-zip": "0.5.7",
